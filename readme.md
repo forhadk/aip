@@ -3,12 +3,12 @@
 My goal was to create a system that will be able to find and separate a specific person or a group of people's images from a local folder where exists thousands of images of various peoples.
 To do so, I used python and a library called '[face_recongnition](https://pypi.org/project/face-recognition/)'.
 
-**To run this program you need:**   
+### To run this program you need:  
   - Python 3  and  
   - [face_recongnition](https://pypi.org/project/face-recognition/) installed  
 
 
-**Features:** 
+### Features: 
   - It's consoled based program
   - Consists of three options:
     1. **Separate images of a person:** This function takes the image name of the target person (located in `./images/training/` directory) and searches all the images available in the `./images/inputs/` directory. As output, it copies all of those images which consists target person and save in a folder at `./images/outputs/` directory.  
