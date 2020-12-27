@@ -9,7 +9,7 @@ To do so, I used python and a library called '[face_recongnition](https://pypi.o
 
 
 ### Features: 
-  - It's consoled based program
+  - It's a console-based program
   - Consists of three options:
     1. **Separate images of a person:** This function takes the image name of the target person (located in `./images/training/` directory) and searches all the images available in the `./images/inputs/` directory. As output, it copies all of those images which consists target person and save in a folder at `./images/outputs/` directory.  
     1. **Separate images of a group of people:** This function takes all the images located in the `./images/training/` directory as target person image and searches all the images available in the `./images/inputs/` directory. As output, it copies all of those images which consists target person, and saves them in a folder at the `./images/outputs/` directory.  
