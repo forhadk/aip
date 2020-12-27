@@ -1,6 +1,6 @@
-# AI Project
+# Image Filter or Searching System
 
-My goal was to create a program that will be able to find and separate a specific person or a group of people images from a local folder that contains thousands of images.
+My goal was to create a system that will be able to find and separate a specific person or a group of people's images from a local folder where exists thousands of images of various peoples.
 To do so, I used python and a library called '[face_recongnition](https://pypi.org/project/face-recognition/)'.
 
 **To run this program you need:**   
