@@ -3,10 +3,6 @@
 My goal was to create a system that will be able to find and separate a specific person or a group of people's images from a local folder where exists thousands of images of various peoples.
 To do so, I used python and a library called '[face_recongnition](https://pypi.org/project/face-recognition/)'.
 
-### To run this program you need:  
-  - Python 3  and  
-  - [face_recongnition](https://pypi.org/project/face-recognition/) installed  
-
 
 ### Features:  
 <ul>
@@ -32,4 +28,18 @@ To do so, I used python and a library called '[face_recongnition](https://pypi.o
   </ol>    
 </ul>
 
-Make sure your target person's image is located in the <code>./images/training/</code> directory and the images you wanna filter are located in the <code>./images/inputs/</code> directory.
+<br><br>
+
+
+### To run this program you need:  
+  - Python 3  and  
+  - [face_recongnition](https://pypi.org/project/face-recognition/) installed  
+
+
+### Procedure to run:
+  - Download or Clone this repository.  
+  - Put all the images you wanna search or filter at <code>./images/inputs/</code> directory.  
+  - Put all the target person's image (training images) at <code>./images/training/</code> directory.
+  - Run the `main.py` file.
+  - Follow instructions shown in the console.
+
