@@ -1,1 +1,1 @@
-### Make sure your target person's image is located here.
+### Make sure all the target person's image (training images) is located here.
